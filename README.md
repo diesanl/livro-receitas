@@ -1,6 +1,7 @@
 ### LIVRO DE RECEITAS
 
-Olá!!! Bem vindo ao meu livro de receitas o/
+## Olá!!! Bem vindo ao meu livro de receitas o/
 
-Strogonoff de Frango;
-Pavê;
+1. Strogonoff de Frango;
+2. Pavê;
+3. Teste from local;
